@@ -7,7 +7,7 @@
 <form action="login">
 <input type="text" name="uname"/><br>
 <input type="password" name="pass"/><br>
-<input type="submit" value="SUBMIT"/><br>
+<input type="submit" value="submit"/><br>
 
 </form>
 </body>
